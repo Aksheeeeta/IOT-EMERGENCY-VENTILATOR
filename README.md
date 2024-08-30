@@ -38,4 +38,5 @@ Image Link:https://github.com/prathimacode-hub/IoT-Spot/blob/61953dbca1adf640351
 <br>
 
 # Author
-Siddhant Pawar
+AKSHITHA ARUN
+
